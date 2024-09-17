@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maheshsingh20
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in FullStack Web Developement
+- 🌱 I’m currently learning DSA
