@@ -5,6 +5,7 @@ I'm a Full-stack developer skilled in building responsive web applications using
 ## 🌱 Currently Learning
 - Data Structures and Algorithms
 - Cloud Services
+- MERN Stack
 
 ## 🔧 Technologies & Tools I Use
 - **Frontend**: React, JavaScript, HTML, CSS
@@ -51,5 +52,5 @@ My solutions to LeetCode problems, written in multiple languages.
 
 ## 🎨 Add Your Badge Here
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-100%20Problems%20Solved-orange)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-300%20Problems%20Solved-orange)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-green)
