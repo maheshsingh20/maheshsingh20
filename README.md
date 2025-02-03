@@ -35,6 +35,10 @@ I'm also passionate about **Data Structures and Algorithms** and love solving **
 
 ---
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshsingh20&theme=dark)
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
