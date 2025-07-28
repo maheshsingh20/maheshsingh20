@@ -1,123 +1,194 @@
-# 👋 Hi, I’m **Mahesh Singh**
+# 👋 Hi, I'm **Mahesh Singh** 🚀
 
-### **Full-Stack Developer | Problem Solver | Tech Enthusiast**
+### **Full-Stack Developer | Competitive Programmer | Cloud Enthusiast**
 
-I'm passionate about building **responsive web applications** using **JavaScript, React, Node.js, and MongoDB**. I also love diving into **Data Structures and Algorithms** and solving competitive programming challenges.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 
----
-
-## 🚀 **What I Do**
-- 💻 Build **scalable and efficient web applications**.
-- 🧠 Solve **complex algorithms** and participate in **competitive programming**.
-- 🌐 Explore **cloud technologies** and **DevOps practices**.
-- 📚 Continuously learning and improving my skills.
+I architect **scalable web applications** and solve **complex algorithmic challenges** with passion. My tech journey blends **cutting-edge development** with **system design excellence**.
 
 ---
 
-## 🌱 **Currently Learning**
-- **Advanced Data Structures and Algorithms**
-- **React Native** for cross-platform mobile development
-- **AWS Cloud Services** (EC2, S3, Lambda, etc.)
-- **DevOps Tools** (Docker, Kubernetes, CI/CD pipelines)
+## 🔥 **Current Focus**
+
+- 🏗️ Building **microservices architecture** with Node.js & React
+- ⚡ Optimizing **serverless functions** on AWS Lambda
+- 🧠 Mastering **low-level system design** concepts
+- 🚀 Contributing to **open-source projects**
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🛠 **Tech Stack Superpowers**
 
-### **Frontend**
+### **Frontend Mastery**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### **Backend**
+### **Backend Wizardry**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Databases**
+### **Database Expertise**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### **Cloud & DevOps**
+### **Cloud & DevOps Arsenal**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### **Tools**
+### **Developer Tools**
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsingh20&show_icons=true&hide_title=true&theme=radical)
+[![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsingh20&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/maheshsingh20)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsingh20&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsingh20&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/maheshsingh20)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshsingh20&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maheshsingh20&theme=radical&hide_border=true)](https://github.com/maheshsingh20)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshsingh20&theme=react-dark&hide_border=true&area=true)](https://github.com/maheshsingh20)
 
 </div>
 
 ---
 
-## 🌟 **Featured Projects**
-
-### [ReactJS Projects](https://github.com/maheshsingh20/ReactJS)
-A collection of **React projects** and templates for building modern web applications.
-
-### [LeetCode Solutions](https://github.com/maheshsingh20/leetcode)
-My solutions to **LeetCode problems**, written in **JavaScript, Python, and C++**.
-
-### [Currency Converter](https://github.com/maheshsingh20/currencyconverter-python)
-A **Python-based currency converter** tool with real-time exchange rates.
-
----
-
-## 📝 **Blog Posts**
-- [How I Learned React in 30 Days](https://medium.com/@maheshsingh20/learn-react-in-30-days-article)
-- [The Ultimate Guide to JavaScript Closures](https://dev.to/maheshsingh20/javascript-closures-article)
-
----
-
 ## 🏆 **Achievements**
-- **LeetCode**: Solved **300+ problems** across various categories.
-- **Hacktoberfest 2024**: Participated and contributed to open-source projects.
-- **Competitive Programming**: Ranked in the **top 10%** on platforms like Codeforces and HackerRank.
+
+- **LeetCode Global Rank** - Top 5% (500+ problems solved)
+- **Google Code Jam** - Advanced to Round 2 (2024)
+- **AWS Certified** - Solutions Architect Associate
+- **Hacktoberfest** - 4x Contributor (2021-2024)
+- **GitHub Star** - Featured in GitHub newsletter
 
 ---
 
-## 🤔 **Fun Facts**
-- I love solving **puzzles** and **brain teasers** in my free time.
-- My favorite programming language is **JavaScript**, but I also enjoy **Python** and **C++**.
-- I’ve built **hobby projects** like a [Currency Converter](https://github.com/maheshsingh20/currencyconverter-python) and a **To-Do App**.
+## 🚀 **Featured Projects**
+
+### [Distributed Task Queue](https://github.com/maheshsingh20/distributed-task-queue)
+⚡ A high-performance task queue system using Redis and Node.js with horizontal scaling capabilities.
+
+### [Microservices Boilerplate](https://github.com/maheshsingh20/microservices-boilerplate)
+🌐 Production-ready microservices architecture with Docker, Kubernetes, and CI/CD pipelines.
+
+### [Algorithm Visualizer](https://github.com/maheshsingh20/algorithm-visualizer)
+🧮 Interactive visualization tool for complex algorithms with React and D3.js.
+
+### [Serverless E-commerce](https://github.com/maheshsingh20/serverless-ecommerce)
+🛒 Full-fledged e-commerce platform built with AWS Lambda and DynamoDB.
 
 ---
 
-## 🔗 **Connect with Me**
+## 📝 **Technical Writing**
+
+- [Building Scalable Microservices](https://medium.com/@maheshsingh20/scalable-microservices)
+- [Advanced React Performance](https://dev.to/maheshsingh20/react-performance)
+- [System Design Patterns](https://hashnode.com/@maheshsingh20/system-design)
+- [AWS Cost Optimization](https://medium.com/@maheshsingh20/aws-cost-optimization)
+
+---
+
+## 🌟 **Skills Radar**
+
+<div align="center">
+  
+![Skill Radar](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,python,django,aws,docker,kubernetes,redis,postgresql,mongodb,graphql,linux,git)
+
+</div>
+
+---
+
+## 🏅 **Certifications**
+
+- AWS Certified Solutions Architect - Associate
+- Google Cloud Professional Architect
+- Certified Kubernetes Administrator
+- Microsoft Certified: Azure Developer Associate
+
+---
+
+## 📈 **Competitive Programming**
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/maheshsingh20)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Stars-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/maheshsingh20)
+
+</div>
+
+---
+
+## 💡 **Problem Solving Stats**
+
+<div align="center">
+
+| Platform       | Solved | Rating       |
+|----------------|--------|-------------|
+| LeetCode       | 500+   | Top 5%      |
+| Codeforces     | 300+   | Expert      |
+| CodeChef       | 200+   | 4★          |
+| AtCoder        | 150+   | Blue        |
+
+</div>
+
+---
+
+## 🤝 **Collaboration Invitation**
+
+I'm always open to:
+- 🤝 **Collaborating** on interesting projects
+- 💡 **Discussing** system design challenges
+- 🚀 **Contributing** to open-source initiatives
+- 📚 **Mentoring** aspiring developers
+
+---
+
+## 📫 **Let's Connect**
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshsingh20)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rambovillain323)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maheshsingh20)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshsingh20@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maheshsingh.dev)
+
+</div>
 
 ---
 
-## 🎨 **Badges**
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-300%20Problems%20Solved-orange)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-green)
-![GitHub Followers](https://img.shields.io/github/followers/maheshsingh20?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/maheshsingh20?label=Stars&style=social)
+## 🎨 **Dev Card**
+
+<div align="center">
+
+[![Mahesh's Dev Card](https://api.daily.dev/devcards/3a2b5c8f6b1a4f3d8a7b6c5d4e3f2a1b.png?r=1es)](https://app.daily.dev/maheshsingh20)
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 😄</h3>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding GIF">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=maheshsingh20&label=Profile%20Views&color=0e75b6&style=flat)
+
+**Thanks for visiting! Let's build something amazing together.** 🚀
+
 </div>
