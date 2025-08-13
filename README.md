@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Mahesh Singh** 🚀
 
-### **Full-Stack Developer | Competitive Programmer | Cloud Enthusiast**
+### **Full-Stack Developer | Competitive Programmer | Cloud Enthusiast** 
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 
