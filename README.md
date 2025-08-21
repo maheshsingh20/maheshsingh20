@@ -5,7 +5,6 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 
 I architect **scalable web applications** and solve **complex algorithmic challenges** with passion. My tech journey blends **cutting-edge development** with **system design excellence**.
-
 ---
 
 ## 🔥 **Current Focus**
