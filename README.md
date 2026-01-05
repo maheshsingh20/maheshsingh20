@@ -42,11 +42,9 @@ I architect **scalable web applications** and solve **complex algorithmic challe
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### **Developer Tools**
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -70,7 +68,7 @@ I architect **scalable web applications** and solve **complex algorithmic challe
 
 ## 🏆 **Achievements**
 
-- **LeetCode Global Rank** - Top 5% (500+ problems solved)
+- **LeetCode Global Rank** - Top 5% (750+ problems solved)
 - **Google Code Jam** - Advanced to Round 2 (2024)
 - **AWS Certified** - Solutions Architect Associate
 - **Hacktoberfest** - 4x Contributor (2021-2024)
