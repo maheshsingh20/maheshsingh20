@@ -18,35 +18,57 @@ I architect **scalable web applications** and solve **complex algorithmic challe
 
 ## 🛠 **Tech Stack Superpowers**
 
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+## **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **Backend Wizardry**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Database Expertise**
+## **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![UX Design](https://img.shields.io/badge/UX_Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+
+## **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-0A0A0A?style=for-the-badge&logo=architecture&logoColor=white)
+
+## **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=databricks&logoColor=white)
 
-### **Cloud & DevOps Arsenal**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS_EC2_S3_Lambda-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CodeCommit](https://img.shields.io/badge/CodeCommit-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
 
-### **Developer Tools**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## **AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-5A67D8?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=autodesk&logoColor=white)
+
+## **Core Computer Science**
+![OOPS](https://img.shields.io/badge/OOPS-0047AB?style=for-the-badge&logo=abstract&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-6B7280?style=for-the-badge&logo=codacy&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-111827?style=for-the-badge&logo=processwire&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+
 
 ---
 
@@ -77,18 +99,28 @@ I architect **scalable web applications** and solve **complex algorithmic challe
 ---
 
 ## 🚀 **Featured Projects**
+### **Code And Chill** | MERN, AWS, Gemini API, CI/CD  
+[§ GitHub Repository](https://github.com/maheshsingh20/CodeAndChill) • **Jan 2026**  
+– Architected a full-fledged coding platform featuring authentication, a 5+ language–supported code editor, and a competitive ranking system.  
+– Containerized and deployed the platform on AWS EC2 using Docker, achieving **99% service availability**.  
+– Implemented a custom code evaluation engine processing **100+ submissions** with automated verdict generation.
 
-### [Distributed Task Queue](https://github.com/maheshsingh20/distributed-task-queue)
-⚡ A high-performance task queue system using Redis and Node.js with horizontal scaling capabilities.
+---
 
-### [Microservices Boilerplate](https://github.com/maheshsingh20/microservices-boilerplate)
-🌐 Production-ready microservices architecture with Docker, Kubernetes, and CI/CD pipelines.
+### **Clueso.ai** | React, Node.js, Agentic AI, TypeScript  
+[§ GitHub Repository](https://github.com/maheshsingh20/Clueso.io) • **Dec 2025**  
+– Built a **100% AI-powered** editing platform enabling screen recording, script extraction, auto-captions, and AI-generated voiceovers.  
+– Developed real-time collaboration with multi-user workspaces and **role-based access control (RBAC)**.  
+– Integrated AI-driven script enhancement, voice synthesis, and video effects, improving content creation efficiency by **78%**.
 
-### [Algorithm Visualizer](https://github.com/maheshsingh20/algorithm-visualizer)
-🧮 Interactive visualization tool for complex algorithms with React and D3.js.
+---
 
-### [Serverless E-commerce](https://github.com/maheshsingh20/serverless-ecommerce)
-🛒 Full-fledged e-commerce platform built with AWS Lambda and DynamoDB.
+### **Smart Music App** | MERN, Docker, AI, React 18  
+[§ GitHub Repository](https://github.com/maheshsingh20/Smart-Music-App) • **Jun 2025**  
+– Designed an AI-driven, **20+ language** music streaming platform with intelligent recommendations, smart search, and dynamic playlists.  
+– Integrated Jamendo API as the default provider with optional Spotify API support for premium audio.  
+– Strengthened backend security by **95%** using JWT authentication, Bcrypt hashing, Helmet, and strict CORS policies.
+
 
 ---
 
