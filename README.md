@@ -1,222 +1,261 @@
-# 👋 Hi, I'm **Mahesh Singh** 🚀
+<div align="center">
 
-### **Full-Stack Developer | Competitive Programmer | Cloud Enthusiast** 
+```
+███╗   ███╗ █████╗ ██╗  ██╗███████╗███████╗██╗  ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
+████╗ ████║██╔══██╗██║  ██║██╔════╝██╔════╝██║  ██║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
+██╔████╔██║███████║███████║█████╗  ███████╗███████║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
+██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  ╚════██║██╔══██║    ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████║██║  ██║    ███████║██║██║ ╚████║╚██████╔╝██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+### Full-Stack Engineer · Competitive Programmer · Cloud Architect
 
-I architect **scalable web applications** and solve **complex algorithmic challenges** with passion. My tech journey blends **cutting-edge development** with **system design excellence**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+distributed+systems+%F0%9F%8F%97%EF%B8%8F;Solving+complex+algorithmic+challenges+%F0%9F%A7%A0;Architecting+microservices+with+Java+%26+Spring+Boot+%E2%9A%A1;Cloud+native+development+on+AWS+%E2%98%81%EF%B8%8F;Agentic+AI+%26+LangChain+pipelines+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshsingh20)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_5%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1859-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/maheshsingh20)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maheshsingh.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://maheshsingh.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=maheshsingh20&style=flat-square&color=00D9FF&label=Profile+Views)
+
+</div>
+
 ---
 
-## 🔥 **Current Focus**
+## 👨‍💻 About Me
 
-- 🏗️ Building **microservices architecture** with Node.js & React
-- ⚡ Optimizing **serverless functions** on AWS Lambda
-- 🧠 Mastering **low-level system design** concepts
-- 🚀 Contributing to **open-source projects**
+```java
+public class MaheshSingh {
+
+    private final String role     = "Software Engineer Trainee @ Capgemini";
+    private final String degree   = "B.Tech CSE, Lovely Professional University (CGPA: 8.3)";
+    private final String focus    = "SDE Roles | Microservices | Cloud Architecture | Agentic AI";
+
+    private final String[] strengths = {
+        "Microservices architecture (Java, Spring Boot, .NET)",
+        "Cloud-native development on AWS (EC2, S3, Lambda, CodeBuild)",
+        "Agentic AI pipelines with LangChain",
+        "CI/CD automation: Jenkins, Docker, GitHub Actions",
+        "Competitive Programming — Codeforces Expert (Rating: 1859)"
+    };
+
+    private final String currentlyBuilding = "FreshMart — Online Grocery Platform (12 microservices)";
+    private final String   openTo          = "SDE Internships & Full-Time Roles";
+
+    public String greet() {
+        return "Let's build something scalable together 🚀";
+    }
+}
+```
 
 ---
 
-## 🛠 **Tech Stack Superpowers**
+## 🔥 What I'm Working On
 
-## **Languages**
+| Project | Stack | Status |
+|---|---|---|
+| 🛒 **FreshMart** — Online Grocery Microservices Platform | Angular · .NET · SQL Server · Redis · RabbitMQ · Razorpay · Gemini AI | 🟢 Active |
+| 🔧 **CI/CD Pipeline** — Jenkins + Docker + GitHub + Ansible + Nagios | Docker · Jenkins · GitHub Actions · Ansible | 🟢 Active |
+| 🧠 **DSA & System Design Prep** — Interview grinding | LeetCode · Codeforces · HLD/LLD | 🟡 Ongoing |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![UX Design](https://img.shields.io/badge/UX_Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
-
-## **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices_Architecture-0A0A0A?style=for-the-badge&logo=architecture&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## **Databases**
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Messaging
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logo=databricks&logoColor=white)
 
-## **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS_EC2_S3_Lambda-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CodeCommit](https://img.shields.io/badge/CodeCommit-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CodeBuild](https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## **AI & LLMs**
+### AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Conversational AI](https://img.shields.io/badge/Conversational_AI-5A67D8?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=autodesk&logoColor=white)
-
-## **Core Computer Science**
-![OOPS](https://img.shields.io/badge/OOPS-0047AB?style=for-the-badge&logo=abstract&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-6B7280?style=for-the-badge&logo=codacy&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-111827?style=for-the-badge&logo=processwire&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
-
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🚀 Featured Projects
+
+### 🛒 FreshMart — Online Grocery Microservices Platform
+> `Angular` `ASP.NET Core` `SQL Server` `Redis` `RabbitMQ` `Razorpay` `Gemini AI` `Docker` `Jenkins`
+
+A production-grade **online grocery platform** built as a distributed system with **12 independent microservices**, end-to-end CI/CD, and AI-powered features.
+
+- 🏗️ Architected 12 microservices: Auth, Product, Cart, Order, Payment, Notification, Search, Analytics, and more
+- 💳 Integrated **Razorpay payment gateway** with webhook-based order confirmation
+- 🤖 Built a **Gemini AI-powered product recommendation** engine and smart search
+- 📦 Containerized with **Docker** and orchestrated via **Jenkins CI/CD pipeline**
+- 📬 Implemented async inter-service communication using **RabbitMQ** event queues
+- ⚡ Used **Redis** for distributed session management and cart caching
+- 📄 Documented with a 20-section **LLD covering all services, APIs, and schemas**
+
+---
+
+### 💻 Code And Chill — Distributed Coding Platform
+> `MERN` `AWS EC2` `Docker` `Gemini API` `CI/CD` — **Jan 2026**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/maheshsingh20/CodeAndChill)
+
+A full-fledged **competitive coding platform** hosted on AWS with real-time code evaluation.
+
+- 🌐 Supports **5+ programming languages** with a custom code evaluation engine
+- 🏆 Competitive **ranking system** with leaderboard and submission history
+- ☁️ Deployed on **AWS EC2** using Docker achieving **99% service availability**
+- ⚙️ Built automated verdict generation processing **100+ concurrent submissions**
+
+---
+
+### 🤖 Agentic AI Pipeline — Clueso.ai
+> `React` `Node.js` `LangChain` `TypeScript` `Agentic AI` — **Dec 2025**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/maheshsingh20/Clueso.io)
+
+A **100% AI-powered** screen recording and video editing platform with multi-user workspaces.
+
+- 🎙️ Automated screen recording, script extraction, **auto-captions**, and AI voiceover synthesis
+- 🔐 **Role-based access control (RBAC)** with real-time multi-user collaboration
+- 🤖 Built an **Agentic AI pipeline** using LangChain for script enhancement and content automation
+- 📈 Improved content creation efficiency by **78%** through AI-driven automation
+
+---
+
+### 🎵 Smart Music App
+> `MERN` `Docker` `Gemini AI` `React 18` — **Jun 2025**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/maheshsingh20/Smart-Music-App)
+
+An **AI-driven music streaming platform** supporting 20+ languages with intelligent recommendations.
+
+- 🌍 Multi-language support with **Jamendo API** and optional **Spotify API** integration
+- 🔒 Backend hardened by **95%** using JWT, Bcrypt, Helmet, and strict CORS
+- 🎧 AI-powered smart search, dynamic playlists, and personalized recommendations
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshsingh20&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/maheshsingh20)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshsingh20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsingh20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsingh20&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/maheshsingh20)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maheshsingh20&theme=tokyonight&hide_border=true)](https://github.com/maheshsingh20)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maheshsingh20&theme=radical&hide_border=true)](https://github.com/maheshsingh20)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshsingh20&theme=react-dark&hide_border=true&area=true)](https://github.com/maheshsingh20)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshsingh20&theme=tokyo-night&hide_border=true&area=true)](https://github.com/maheshsingh20)
 
 </div>
 
 ---
 
-## 🏆 **Achievements**
-
-- **LeetCode Global Rank** - Top 5% (750+ problems solved)
-- **Google Code Jam** - Advanced to Round 2 (2024)
-- **AWS Certified** - Solutions Architect Associate
-- **Hacktoberfest** - 4x Contributor (2021-2024)
-- **GitHub Star** - Featured in GitHub newsletter
-
----
-
-## 🚀 **Featured Projects**
-### **Code And Chill** | MERN, AWS, Gemini API, CI/CD  
-[§ GitHub Repository](https://github.com/maheshsingh20/CodeAndChill) • **Jan 2026**  
-– Architected a full-fledged coding platform featuring authentication, a 5+ language–supported code editor, and a competitive ranking system.  
-– Containerized and deployed the platform on AWS EC2 using Docker, achieving **99% service availability**.  
-– Implemented a custom code evaluation engine processing **100+ submissions** with automated verdict generation.
-
----
-
-### **Clueso.ai** | React, Node.js, Agentic AI, TypeScript  
-[§ GitHub Repository](https://github.com/maheshsingh20/Clueso.io) • **Dec 2025**  
-– Built a **100% AI-powered** editing platform enabling screen recording, script extraction, auto-captions, and AI-generated voiceovers.  
-– Developed real-time collaboration with multi-user workspaces and **role-based access control (RBAC)**.  
-– Integrated AI-driven script enhancement, voice synthesis, and video effects, improving content creation efficiency by **78%**.
-
----
-
-### **Smart Music App** | MERN, Docker, AI, React 18  
-[§ GitHub Repository](https://github.com/maheshsingh20/Smart-Music-App) • **Jun 2025**  
-– Designed an AI-driven, **20+ language** music streaming platform with intelligent recommendations, smart search, and dynamic playlists.  
-– Integrated Jamendo API as the default provider with optional Spotify API support for premium audio.  
-– Strengthened backend security by **95%** using JWT authentication, Bcrypt hashing, Helmet, and strict CORS policies.
-
-
----
-
-## 📝 **Technical Writing**
-
-- [Building Scalable Microservices](https://medium.com/@maheshsingh20/scalable-microservices)
-- [Advanced React Performance](https://dev.to/maheshsingh20/react-performance)
-- [System Design Patterns](https://hashnode.com/@maheshsingh20/system-design)
-- [AWS Cost Optimization](https://medium.com/@maheshsingh20/aws-cost-optimization)
-
----
-
-## 🌟 **Skills Radar**
+## 🏆 Competitive Programming
 
 <div align="center">
-  
-![Skill Radar](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,python,django,aws,docker,kubernetes,redis,postgresql,mongodb,graphql,linux,git)
+
+| Platform | Solved | Rating / Rank | Badge |
+|---|---|---|---|
+| 🟡 **LeetCode** | 750+ problems | Top 5% globally | [![LeetCode](https://img.shields.io/badge/LeetCode-750%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20) |
+| 🔵 **Codeforces** | 300+ problems | **Expert — 1859** (Peak) | [![CF](https://img.shields.io/badge/Expert-1859-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/maheshsingh20) |
+| 🟤 **CodeChef** | 200+ problems | 4★ | [![CC](https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/maheshsingh20) |
+| 🔵 **AtCoder** | 150+ problems | Blue | ![AtCoder](https://img.shields.io/badge/AtCoder-Blue-3F51B5?style=flat-square) |
 
 </div>
 
----
-
-## 🏅 **Certifications**
-
-- AWS Certified Solutions Architect - Associate
-- Google Cloud Professional Architect
-- Certified Kubernetes Administrator
-- Microsoft Certified: Azure Developer Associate
+> 🧠 Strong in **Graph Algorithms** (Dijkstra's, Bellman-Ford), **Dynamic Programming**, **Greedy**, and **Segment Trees** — honed through years of rated contests.
 
 ---
 
-## 📈 **Competitive Programming**
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| ☁️ OCI Developer Professional | Oracle Cloud | 2025 |
+| 🔧 OCI DevOps Professional | Oracle Cloud | 2025 |
+| 🏗️ AWS Solutions Architect Associate | Amazon Web Services | — |
+| 🌐 Google Cloud Professional Architect | Google Cloud | — |
+| 🐳 Certified Kubernetes Administrator | CNCF | — |
+| 🪟 Azure Developer Associate | Microsoft | — |
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **Codeforces Expert** — Rating 1859 (Peak), sustained through long-term rated contest participation
+- 🌟 **LeetCode Top 5%** — 750+ problems solved across all difficulty levels
+- 🏆 **Google Code Jam 2024** — Advanced to Round 2
+- 🎖️ **Hacktoberfest 4x Contributor** — 2021 to 2024
+- ⭐ **GitHub Star** — Featured in GitHub newsletter
+
+---
+
+## 📝 Technical Writing
+
+- 📄 [Building Scalable Microservices](https://medium.com/@maheshsingh20/scalable-microservices) — Medium
+- ⚛️ [Advanced React Performance Optimization](https://dev.to/maheshsingh20/react-performance) — Dev.to
+- 🏗️ [System Design Patterns in Practice](https://hashnode.com/@maheshsingh20/system-design) — Hashnode
+- ☁️ [AWS Cost Optimization Strategies](https://medium.com/@maheshsingh20/aws-cost-optimization) — Medium
+
+---
+
+## 🤝 Open To
+
+- 💼 **SDE Internships** at product-based companies (Tier 1 / Tier 2)
+- 🚀 **Full-Time SDE Roles** (Bangalore / Remote)
+- 🧩 **Collaborations** on open-source or side projects
+- 💬 **System Design discussions**, mock interviews, and mentoring
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/maheshsingh20)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Stars-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/maheshsingh20)
-
-</div>
-
----
-
-## 💡 **Problem Solving Stats**
-
-<div align="center">
-
-| Platform       | Solved | Rating       |
-|----------------|--------|-------------|
-| LeetCode       | 500+   | Top 5%      |
-| Codeforces     | 300+   | Expert      |
-| CodeChef       | 200+   | 4★          |
-| AtCoder        | 150+   | Blue        |
-
-</div>
-
----
-
-## 🤝 **Collaboration Invitation**
-
-I'm always open to:
-- 🤝 **Collaborating** on interesting projects
-- 💡 **Discussing** system design challenges
-- 🚀 **Contributing** to open-source initiatives
-- 📚 **Mentoring** aspiring developers
-
----
-
-## 📫 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshsingh20)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rambovillain323)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshsingh20@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maheshsingh.dev)
-
-</div>
-
----
-
-## 🎨 **Dev Card**
-
-<div align="center">
-
-[![Mahesh's Dev Card](https://api.daily.dev/devcards/3a2b5c8f6b1a4f3d8a7b6c5d4e3f2a1b.png?r=1es)](https://app.daily.dev/maheshsingh20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshsingh20)
+[![Email](https://img.shields.io/badge/Email-maheshsingh20%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshsingh20@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maheshsingh.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maheshsingh.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_5%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maheshsingh20)
+[![Twitter](https://img.shields.io/badge/Twitter-@maheshsingh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rambovillain323)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=maheshsingh20&label=Profile%20Views&color=0e75b6&style=flat)
 
-**Thanks for visiting! Let's build something amazing together.** 🚀
+*"The best code is the code that solves the right problem elegantly."*
+
+**Let's build something that scales.** 🚀
 
 </div>
