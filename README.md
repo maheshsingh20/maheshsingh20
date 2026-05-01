@@ -153,11 +153,11 @@ LangChain / AI       ███████████████░░░░�
 <td width="50%">
 
 ### 🛒 FreshMart — Microservices Grocery Platform
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/maheshsingh20/freshmart)
 
 Production-grade distributed system with **12 independent microservices**, CI/CD, Razorpay payments & Gemini AI.
 
