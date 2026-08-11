@@ -97,6 +97,8 @@ public class MaheshSingh
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![YARP](https://img.shields.io/badge/YARP_Gateway-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -119,6 +121,19 @@ public class MaheshSingh
 ### 🤖 AI
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧪 Testing & Quality
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Spock](https://img.shields.io/badge/Spock_BDD-4479A1?style=for-the-badge&logo=groovy&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+### 🌐 Systems & Networking
+![HTTP](https://img.shields.io/badge/HTTP%2F1.1_to_HTTP%2F3-005571?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS-4A90D9?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-3B5998?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-232F3E?style=for-the-badge)
 
 </div>
 
