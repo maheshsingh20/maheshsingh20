@@ -39,6 +39,7 @@ public class MaheshSingh
     {
         "Building production backend systems on .NET Core and Azure at scale",
         "Designing multi-service distributed architectures end to end",
+        "Figma-driven UI/UX design across full-stack projects",
         "Kafka, RabbitMQ, and saga patterns for reliable async messaging",
         "CI/CD with Jenkins, Docker, and automated test pipelines",
         "Codeforces Expert, peak rating 1859, Global Rank #77 in a 30k+ round"
@@ -103,6 +104,10 @@ public class MaheshSingh
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
