@@ -10,7 +10,7 @@ I work on backend systems and distributed architecture — currently at **Capgem
 **Open-source contributions**
 Merged PRs to 
 [Cordis](https://github.com/cordiverse/cordis) (Cordiverse) 
-[sfdx-lwc-jest](https://github.com/salesforce/sfdx-lwc-jest) (Salesforce).
+[sfdx-lwc-jest](https://github.com/salesforce/sfdx-lwc-jest) (Salesforce)
 [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)(THU-MAIC)
 
 **Recent work**
