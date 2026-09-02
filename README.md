@@ -4,7 +4,7 @@
 
 Backend Engineer, distributed systems and infrastructure
 
-[LinkedIn](https://www.linkedin.com/in/maheshsingh20) · [Codeforces](https://codeforces.com/profile/maheshsingh20) · [Email](mailto:maheshsingh0905a@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maheshsingh20) · [Codeforces](https://codeforces.com/profile/maheshsingh0905a) · [Email](mailto:maheshsingh0905a@gmail.com)
 
 </div>
 
