@@ -1,20 +1,17 @@
-<div align="center">
+# 👋 Hi, I'm Mahesh Singh
+### Backend Engineer — Distributed Systems & Infrastructure
 
-# Mahesh Singh
-
-Backend Engineer, distributed systems and infrastructure
-
-[LinkedIn](https://www.linkedin.com/in/maheshsingh20) · [Codeforces](https://codeforces.com/profile/maheshsingh0905a) · [Email](mailto:maheshsingh0905a@gmail.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/maheshsingh20) &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/maheshsingh0905a) &nbsp;·&nbsp; [Email](mailto:maheshsingh0905a@gmail.com)
 
 <br/>
 
-I work on backend systems and distributed architecture — currently at Capgemini India, on ASP.NET Core and Azure. Outside of that, I contribute to open source and compete on Codeforces (Expert, peak 1859, Global Rank #77 in a 30,000+ participant round).
+I work on backend systems and distributed architecture — currently at **Capgemini India**, building on **ASP.NET Core** and **Azure**. Outside of that, I contribute to open source and compete on Codeforces (**Expert**, peak 1859, Global Rank #77 in a 30,000+ participant round).
 
-**Open-source contributions:** merged PRs to [Cordis](https://github.com/cordiverse/cordis) (Cordiverse) and [sfdx-lwc-jest](https://github.com/salesforce/sfdx-lwc-jest)(Salesforce).
+**Open-source contributions**
+Merged PRs to [Cordis](https://github.com/cordiverse/cordis) (Cordiverse) and [sfdx-lwc-jest](https://github.com/salesforce/sfdx-lwc-jest) (Salesforce).
 
-**Recent work:** [FreshMart](https://github.com/maheshsingh20/FreshMart) — a 12-service backend platform on ASP.NET Core, Redis, and RabbitMQ.
+**Recent work**
+[FreshMart](https://github.com/maheshsingh20/FreshMart) — a 12-service full-stack platform built on Angular, ASP.NET Core, Redis, and RabbitMQ.
 
 <br/>
 
